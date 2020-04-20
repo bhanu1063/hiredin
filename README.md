@@ -1,1 +1,1 @@
-# bc schema examle repository lo annotation ani vuntundi
+# bc schema screenshot example repository lo annotation ani vuntundi
